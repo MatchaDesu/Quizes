@@ -1,0 +1,253 @@
+/* * {
+    border: 1px solid red;
+} */
+
+body {
+    overflow-x: hidden;
+}
+
+.quiz-container {
+    padding: 20px min(5em, 8%);
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+
+    box-shadow: 0px 0px 10px 0px #464f53;
+    border-radius: 20px;
+
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(245, 247, 255);
+
+    text-decoration: none;
+
+    gap: 20px;
+}
+
+.quiz-container h1 {
+    font-size: clamp(2rem, 10vw, 3rem);
+}
+
+.quiz-container h2 {
+    font-size: clamp(0.9rem, 8vw, 1.2rem);
+}
+
+#quiz-form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    gap: 10px;
+}
+
+#quiz-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+#quiz-list {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quiz-box {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+
+    border: none;
+    border-radius: 10px;
+    border: 1.5px solid #898AC4;
+    color: #51517c;
+
+    gap: 20px;
+
+    user-select: none;
+}
+
+.quiz-box input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.quiz-box input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.quiz-box input[type="checkbox"] {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+}
+
+
+.quiz-box:has(input:checked) {
+    border-color: #5d55fd;
+    background: #d9e2ff;
+}
+
+#button-box {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#button-box button {
+    width: 30%;
+    text-align: center;
+    padding: 10px;
+
+    border: none;
+    border-radius: 10px;
+    background-color: #eaefff;
+    border: 1px solid #5d55fd;
+    color: #43437a;
+}
+
+#button-box button.highlight-button {
+    background-color: #5d55fd;
+    color: #ffffff;
+}
+
+#number-selection-box {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
+    gap: 2px;
+}
+
+#number-selection-box button {
+    aspect-ratio: 1 / 1;
+    border-radius: 10px;
+    border: 1px solid #5d55fd;
+    background: #eaefff;
+}
+
+#number-selection-box button.answered {
+    background: #d9f4cd;
+    border-color: #567741;
+    color: #272739;
+}
+
+#number-selection-box button.active {
+    background: #5d55fd;
+    color: white;
+    font-weight: bold;
+}
+
+.result-container {
+    padding: 20px min(5em, 8%);
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+
+    box-shadow: 0px 0px 10px 0px #464f53;
+    border-radius: 20px;
+
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(245, 247, 255);
+
+    text-decoration: none;
+
+    gap: 20px;
+}
+
+.result-container button {
+    text-align: center;
+    padding: 10px;
+
+    border: none;
+    border-radius: 10px;
+    background-color: #5d55fd;
+    color: #ffffff;
+}
+
+.score {
+    font-size: 5rem;
+}
+
+#review-box {
+    padding: 20px min(5em, 8%);
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+
+    box-shadow: 0px 0px 10px 0px #464f53;
+    border-radius: 20px;
+
+    background-color: rgb(245, 247, 255);
+
+    text-decoration: none;
+
+    gap: 20px;
+}
+
+#review-box h1 {
+    font-size: clamp(2rem, 10vw, 3rem);
+}
+
+#review-box h2 {
+    font-size: clamp(0.9rem, 8vw, 1.2rem);
+}
+
+#review-box button {
+    text-align: center;
+    padding: 10px;
+
+    border: none;
+    border-radius: 10px;
+    background-color: #5d55fd;
+    color: #ffffff;
+}
+
+.review-question {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.review-choice {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+
+    border: none;
+    border-radius: 10px;
+    border: 1.5px solid #898AC4;
+    color: #51517c;
+
+    gap: 20px;
+
+    user-select: none;
+}
+
+
+.review-choice.correct {
+    background: #c8f7c5;
+    border-color: #567741;
+}
+
+.review-choice.wrong {
+    background: #f7c5c5;
+    border-color: #fd5555;
+}
+
+
+.review-choice.selected {
+    border: 2px dashed #898AC4;
+}

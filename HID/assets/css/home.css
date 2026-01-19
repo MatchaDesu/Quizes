@@ -1,0 +1,51 @@
+.part-selection-box {
+    padding: 20px min(5em, 8%);
+    width: 400px;
+    display: flex;
+
+    box-shadow: 0px 0px 10px 0px #464f53;
+    border-radius: 20px;
+
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(245, 247, 255);
+
+    text-decoration: none;
+}
+
+
+.midterm {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    gap: 20px;
+}
+
+.midterm h1 {
+    font-size: clamp(2rem, 10vw, 4rem);
+}
+
+.midterm button {
+    font-size: clamp(1rem, 5vw, 2rem);
+}
+
+.select-mode-button {
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+
+    border: none;
+    border-radius: 10px;
+    background-color: #5d55fd;
+    color: #ffffff;
+
+    transition: 0.3s;
+}
+
+.select-mode-button:hover {
+    background-color: #201d50;
+    color: #ffffff;
+}

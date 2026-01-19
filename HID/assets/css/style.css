@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Jersey+10&family=Permanent+Marker&family=Trade+Winds&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a,
+button,
+h1,label,h2,p {
+    text-decoration: none;
+    color: rgb(59, 61, 84);
+
+    font-family: "Google Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "GRAD" 0;
+}
+
+body {
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: #3390b5;
+    background: radial-gradient(circle, rgba(51, 144, 181, 1) 0%, rgba(87, 195, 199, 1) 100%);
+}
+
+button {
+    cursor: pointer;
+}

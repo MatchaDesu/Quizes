@@ -1,0 +1,915 @@
+{
+  "questions": [
+    {
+      "question": "ข้อใดต่อไปนี้เป็น End Users ของตู้เอทีเอ็ม (ATM)",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "เจ้าของบัญชีเงินฝากธนาคาร",
+          "correct": false
+        },
+        {
+          "text": "เจ้าหน้าที่ธนาคาร",
+          "correct": false
+        },
+        {
+          "text": "ผู้จัดการธนาคาร",
+          "correct": false
+        },
+        {
+          "text": "ลูกค้าที่ถือบัตรเอทีเอ็ม",
+          "correct": true
+        },
+        {
+          "text": "พนักงานดูแลตู้เอทีเอ็ม",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "ข้อใดไม่ใช่ลักษณะเฉพาะของ UCD (User-Centered Design) Process",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "ให้ความสำคัญกับ Context of Use",
+          "correct": false
+        },
+        {
+          "text": "มีกระบวนการป้อนกลับ/ย้อนกลับ (Iterative process)",
+          "correct": false
+        },
+        {
+          "text": "คือกระบวนการที่ออกแบบมาสำหรับ UI Design",
+          "correct": true
+        },
+        {
+          "text": "ทุกข้อเป็นลักษณะเฉพาะของ UCD Process",
+          "correct": false
+        },
+        {
+          "text": "มีการประเมินการออกแบบอย่างต่อเนื่อง",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "ข้อใดไม่ใช่ปัญหาที่มักพบในการรวบรวมข้อมูลและวิเคราะห์ความต้องการ (Requirement Analysis Activity)",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "ผู้ใช้ออกแบบความต้องการผิดไปจากความเป็นจริง",
+          "correct": false
+        },
+        {
+          "text": "ผู้ใช้ไม่เข้าใจความต้องการจริง ๆ ของตนเอง",
+          "correct": false
+        },
+        {
+          "text": "ทุกข้อเป็นปัญหาในการรวบรวมความต้องการ",
+          "correct": false
+        },
+        {
+          "text": "นักออกแบบถามผู้ใช้ว่า \"คุณต้องการให้โปรแกรมทำอะไรได้บ้าง\"",
+          "correct": true
+        },
+        {
+          "text": "นักออกแบบออกแบบตามที่ตนเองเห็นว่าเหมาะสม",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "ข้อใดคือขั้นตอนแรกในกระบวนการเพื่อให้ได้มาซึ่งความต้องการ (Requirement)",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "สกัดความต้องการของผู้ใช้",
+          "correct": false
+        },
+        {
+          "text": "รวบรวมข้อมูลความต้องการของผู้ใช้",
+          "correct": false
+        },
+        {
+          "text": "นำเสนอแบบให้ผู้ใช้พิจารณาให้ความคิดเห็น",
+          "correct": false
+        },
+        {
+          "text": "รวบรวมข้อมูลเกี่ยวกับผู้ใช้และปัญหาของผู้ใช้",
+          "correct": true
+        },
+        {
+          "text": "วิเคราะห์ความต้องการจากประสบการณ์ของนักออกแบบ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "หากคุณเป็นผู้เชี่ยวชาญด้านการแต่งตัว และต้องให้คำแนะนำลูกค้าที่ไม่มีประสบการณ์ คำถามใดเป็นประโยชน์มากที่สุด",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "คุณอยากแต่งตัวแบบไหนไปงาน",
+          "correct": true
+        },
+        {
+          "text": "คุณไปงานคนเดียวหรือไปกับใคร",
+          "correct": false
+        },
+        {
+          "text": "คุณจะไปงานเลี้ยงประเภทใด",
+          "correct": false
+        },
+        {
+          "text": "คุณต้องทำหน้าที่อะไรบ้างในงาน",
+          "correct": false
+        },
+        {
+          "text": "แขกในงานเป็นใครบ้าง",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "นอกจากคำถามที่เตรียมมาล่วงหน้าและใช้ถามทุกคนแล้ว เมื่อได้ฟังคำตอบ ผู้ถามอาจถามคำถามเพิ่มเติมนอกเหนือจากที่เตรียมมา ข้อความนี้ตรงกับวิธีการใดมากที่สุด",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "Flexible interview",
+          "correct": false
+        },
+        {
+          "text": "Unstructured interview",
+          "correct": false
+        },
+        {
+          "text": "Structured interview",
+          "correct": false
+        },
+        {
+          "text": "Semi-structured interview",
+          "correct": true
+        },
+        {
+          "text": "Semantic Differential Survey Question",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "ข้อใดเป็นคำถามที่ควรหลีกเลี่ยงในการเก็บข้อมูลด้วยการสัมภาษณ์",
+      "img": null,
+      "multi": true,
+      "choices": [
+        {
+          "text": "คุณเห็นด้วยหรือไม่ว่าแอพที่ดีควรบันทึกทั้งภาพและเสียงได้ดีกว่าการบันทึกเสียงเพียงอย่างเดียว",
+          "correct": true
+        },
+        {
+          "text": "คุณบอกว่า คุณน่าจะใช้ keyboard ที่ดาวน์โหลดจาก Google Playstore แทนที่จะแป้นพิมพ์ที่มากับเครื่อง อยากทราบว่าเป็นเพราะอะไร",
+          "correct": false
+        },
+        {
+          "text": "ถ้าเกิดคุณต้องขึ้นไปถ่ายวิดีโอ คุณอยากได้กล้องถ่ายภาพที่มีคุณสมบัติอะไรบ้าง?",
+          "correct": true
+        },
+        {
+          "text": "จากที่สังเกต เหมือนคุณจะไม่ค่อยชำนาญในการใช้มือถือสักเท่าไร เมื่อเทียบกับเพื่อน ๆ แล้วคุณคิดว่าทักษะด้านนี้ของคุณเป็นอย่างไรบ้าง",
+          "correct": true
+        },
+        {
+          "text": "เรากำลังพัฒนาแอพเพื่อติดตามการระบาดของ COVID คุณในฐานะประชาชนทั่วไป คิดว่าโปรแกรมควรทำอะไรได้บ้าง",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "ตัวเลือกต่อไปนี้เป็นแบบสอบถามประเภทใดมากที่สุด: ไม่เห็นด้วยอย่างยิ่ง [1] [2] [3] [4] [5] เห็นด้วยอย่างยิ่ง",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "Likert Scale",
+          "correct": true
+        },
+        {
+          "text": "Yes/No questionnaire",
+          "correct": false
+        },
+        {
+          "text": "Semantic Differential",
+          "correct": false
+        },
+        {
+          "text": "Open-ended questionnaire",
+          "correct": false
+        },
+        {
+          "text": "Close-ended questionnaire",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "หากต้องการสอบถามความคิดเห็นเกี่ยวกับตัวอักษรบนหน้าเว็บที่ออกแบบ ข้อใดเป็นคำถามแบบ Semantic Differential",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "ไม่มีข้อถูก",
+          "correct": false
+        },
+        {
+          "text": "อ่านง่ายและเข้าใจ / อ่านเข้าใจ / อ่านไม่เข้าใจ / อ่านยากและไม่เข้าใจ",
+          "correct": false
+        },
+        {
+          "text": "อ่านง่าย [1] [2] [3] [4] [5] อ่านยาก",
+          "correct": true
+        },
+        {
+          "text": "เห็นด้วยน้อยที่สุด [1] [2] [3] [4] [5] เห็นด้วยมากที่สุด",
+          "correct": false
+        },
+        {
+          "text": "เข้าใจ / ไม่เข้าใจ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "นาย ก ได้รับการว่าจ้างให้เก็บข้อมูลความต้องการเพื่อออกแบบเครื่องชำระเงินในร้านสะดวกซื้อ ข้อใดแสดงว่าเขาใช้วิธี Naturalistic Observation",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "ส่งแบบสอบถามไปยังพนักงานและลูกค้า",
+          "correct": false
+        },
+        {
+          "text": "นัดหมายประชุมซักถามจากผู้เกี่ยวข้อง",
+          "correct": false
+        },
+        {
+          "text": "นำวิดีโอที่บันทึกจากกล้องในร้านมาศึกษา",
+          "correct": true
+        },
+        {
+          "text": "สัมภาษณ์พนักงานขายในร้าน",
+          "correct": false
+        },
+        {
+          "text": "จำลองสถานการณ์ที่เกิดขึ้นจริงในร้านสะดวกซื้อ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "การจัดประชุมตัวแทนผู้มีส่วนเกี่ยวข้องกับซอฟต์แวร์เพื่อรับฟังปัญหาและข้อคิดเห็น เป็นวิธีการเก็บข้อมูลแบบใด",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "Stakeholder meeting",
+          "correct": false
+        },
+        {
+          "text": "End-user meeting",
+          "correct": false
+        },
+        {
+          "text": "Group interview",
+          "correct": false
+        },
+        {
+          "text": "Brainstorm meeting",
+          "correct": false
+        },
+        {
+          "text": "Focus Group Meeting",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "ข้อใดไม่จัดเป็นประเภทหลักของ UI elements",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "Hybrid UI elements",
+          "correct": false
+        },
+        {
+          "text": "Output UI elements",
+          "correct": false
+        },
+        {
+          "text": "Button UI elements",
+          "correct": true
+        },
+        {
+          "text": "Input UI elements",
+          "correct": false
+        },
+        {
+          "text": "Container UI elements",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "ข้อใดไม่เข้าพวกเมื่อพิจารณาจากประเภทของ UI elements",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "Radio button",
+          "correct": false
+        },
+        {
+          "text": "Tabs",
+          "correct": true
+        },
+        {
+          "text": "Text box",
+          "correct": false
+        },
+        {
+          "text": "Checkbox",
+          "correct": false
+        },
+        {
+          "text": "Button",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "ข้อใดที่ไม่จัดเป็นประเภท container elements",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "Toolbars",
+          "correct": false
+        },
+        {
+          "text": "Accordions",
+          "correct": false
+        },
+        {
+          "text": "Search bar",
+          "correct": true
+        },
+        {
+          "text": "Frame",
+          "correct": false
+        },
+        {
+          "text": "Tabs",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "ในระบบ iOS ข้อใดต่อไปนี้ ที่จัดเป็น Selection & input element",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "Tab bars",
+          "correct": false
+        },
+        {
+          "text": "Status bar",
+          "correct": false
+        },
+        {
+          "text": "Toolbars",
+          "correct": false
+        },
+        {
+          "text": "Segmented control",
+          "correct": true
+        },
+        {
+          "text": "Navigation bars",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "ข้อใดเป็น Navigation element ในระบบ iOS platform",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "Menu",
+          "correct": false
+        },
+        {
+          "text": "Progress",
+          "correct": false
+        },
+        {
+          "text": "Search bar",
+          "correct": true
+        },
+        {
+          "text": "Switches",
+          "correct": false
+        },
+        {
+          "text": "Button",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "รูปต่อไปนี้ (ส่วนที่ highlight ด้านบนของจอ) ตรงกับข้อใด",
+      "img": "assets/img/Picture1.png",
+      "multi": false,
+      "choices": [
+        {
+          "text": "Status bar",
+          "correct": false
+        },
+        {
+          "text": "Page controls",
+          "correct": false
+        },
+        {
+          "text": "Toolbars",
+          "correct": false
+        },
+        {
+          "text": "Navigation bars",
+          "correct": true
+        },
+        {
+          "text": "Tab bars",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "ข้อใดไม่ใช่ action element สำหรับ Android platform",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "Segmented button",
+          "correct": false
+        },
+        {
+          "text": "Common button",
+          "correct": false
+        },
+        {
+          "text": "Icon button",
+          "correct": false
+        },
+        {
+          "text": "FAB",
+          "correct": false
+        },
+        {
+          "text": "Check box",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "ภายใต้ Android platform, UI elements ทุกข้อต่อไปนี้จัดอยู่ในหมวดหมู่เดียวกัน ยกเว้นข้อใด",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "Card",
+          "correct": true
+        },
+        {
+          "text": "Tooltip",
+          "correct": false
+        },
+        {
+          "text": "Progress indicator",
+          "correct": false
+        },
+        {
+          "text": "Snackbar",
+          "correct": false
+        },
+        {
+          "text": "Badge",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "ภายใต้ Android platform UI element ใดจัดว่าเป็น Selection and Text Input category",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "ถูกทุกข้อ",
+          "correct": true
+        },
+        {
+          "text": "Check box",
+          "correct": false
+        },
+        {
+          "text": "Menu",
+          "correct": false
+        },
+        {
+          "text": "Radio button",
+          "correct": false
+        },
+        {
+          "text": "Switch",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "ข้อใดไม่ใช่ประเภทของ UI Prototypes",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "Mockup prototypes",
+          "correct": true
+        },
+        {
+          "text": "Electronic prototypes",
+          "correct": false
+        },
+        {
+          "text": "Paper prototypes",
+          "correct": false
+        },
+        {
+          "text": "High-fidelity prototypes",
+          "correct": false
+        },
+        {
+          "text": "Low-fidelity prototypes",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Prototypes ที่สามารถตอบสนอง (feedback) ที่หลากหลายตาม user actions ที่แตกต่างกันได้ ตรงกับข้อใด",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "Low-fidelity prototypes",
+          "correct": false
+        },
+        {
+          "text": "Paper prototypes",
+          "correct": false
+        },
+        {
+          "text": "Electronic prototypes",
+          "correct": false
+        },
+        {
+          "text": "Mockup prototypes",
+          "correct": false
+        },
+        {
+          "text": "High-fidelity prototypes",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wireframe จัดเป็น prototypes ประเภทใด",
+      "img": null,
+      "multi": false,
+      "choices": [
+        {
+          "text": "Mockup prototype",
+          "correct": false
+        },
+        {
+          "text": "Electronic prototypes",
+          "correct": false
+        },
+        {
+          "text": "Paper prototypes",
+          "correct": false
+        },
+        {
+          "text": "Low-fidelity prototypes",
+          "correct": true
+        },
+        {
+          "text": "High-fidelity prototypes",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "ข้อใดบ้างต่อไปนี้ เป็นการแบ่งประเภทของ prototype ตามสื่อที่ใช้สร้าง",
+      "img": null,
+      "multi": true,
+      "choices": [
+        {
+          "text": "Paper prototypes",
+          "correct": true
+        },
+        {
+          "text": "Mockup prototype",
+          "correct": false
+        },
+        {
+          "text": "Electronic prototypes",
+          "correct": true
+        },
+        {
+          "text": "Low-fidelity prototypes",
+          "correct": false
+        },
+        {
+          "text": "High-fidelity prototypes",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "ข้อใดไม่ใช่เหตุผลในการทำ User Analysis",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "เป็นข้อมูลในการกำหนด Requirements", "correct": false },
+        { "text": "เป็นประโยชน์ในการประเมินการออกแบบ", "correct": false },
+        { "text": "เพื่อให้ทราบความคิดเห็นของผู้ใช้ที่มีต่อต้นแบบ (prototype)", "correct": true },
+        { "text": "ลดปัญหาการออกแบบโดยอิงความคิดเห็นของผู้ออกแบบ", "correct": false },
+        { "text": "ช่วยกำหนดแนวทางในการออกแบบ", "correct": false }
+      ]
+    },
+    {
+      "question": "\"End User\" สัมพันธ์กับข้อใดมากที่สุด",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "Tertiary Users", "correct": false },
+        { "text": "Secondary Users", "correct": false },
+        { "text": "Stakeholder", "correct": false },
+        { "text": "Primary Users", "correct": true },
+        { "text": "Customer", "correct": false }
+      ]
+    },
+    {
+      "question": "ลูกค้าร้านสะดวกซื้อที่ใช้บิลเสร็จจากเครื่องคิดเงิน (POS) ในการตรวจสอบความถูกต้อง จัดว่าเป็น",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "Tertiary Users", "correct": false },
+        { "text": "Stakeholder", "correct": false },
+        { "text": "Customer", "correct": false },
+        { "text": "Secondary Users", "correct": true },
+        { "text": "Primary Users", "correct": false }
+      ]
+    },
+    {
+      "question": "User Characteristics แบ่งออกได้เป็น 2 กลุ่มใหญ่ ๆ ข้อใดที่ไม่จัดอยู่ในกลุ่มของ Demographic Information",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "อาชีพ", "correct": false },
+        { "text": "อายุ", "correct": false },
+        { "text": "ทัศนคติในการใช้เทคโนโลยี", "correct": true },
+        { "text": "การศึกษา", "correct": false },
+        { "text": "เพศ", "correct": false }
+      ]
+    },
+    {
+      "question": "ถ้าสิ่งที่จะทำคือการเขียนจดหมายที่เป็นทางการ ข้อใดจัดว่าเป็น Domain-related Knowledge",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "ความรู้ความสามารถของผู้เขียน", "correct": false },
+        { "text": "แรงจูงใจในการเขียนจดหมาย", "correct": false },
+        { "text": "ความรู้ในการเขียนภาษาไทย", "correct": false },
+        { "text": "ความรู้ในการใช้โปรแกรมจัดทำเอกสาร", "correct": false },
+        { "text": "การใช้คำขึ้นต้นและลงท้าย", "correct": true }
+      ]
+    },
+    {
+      "question": "จากการเก็บข้อมูลเพื่อประกอบการออกแบบเครื่องคิดเงินใหม่ ผู้ใช้งานมักเร่งรีบ เวลามีลูกค้าเข้ามาใช้บริการมาก ๆ จะคิดเงินไม่ทัน ข้อมูลดังกล่าวเกี่ยวข้องกับ User Characteristics ในข้อใด",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "แรงจูงใจในการใช้ระบบ (เครื่องคิดเงิน)", "correct": true },
+        { "text": "ความชำนาญในงานที่ทำ", "correct": false },
+        { "text": "อาชีพที่ทำ", "correct": false },
+        { "text": "ทักษะด้านคอมพิวเตอร์", "correct": false },
+        { "text": "ทัศนคติที่มีต่อการใช้คอมพิวเตอร์", "correct": false }
+      ]
+    },
+    {
+      "question": "ข้อใดไม่ถูกต้องเกี่ยวกับ User Profile",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "เป็นการอธิบายลักษณะของผู้ใช้ในแต่ละกลุ่มโดยใช้ User Characteristics", "correct": false },
+        { "text": "ในการออกแบบ อาจให้ความสำคัญกับ profile ใด profile หนึ่งเป็นหลัก หรือหลาย profile ก็ได้", "correct": false },
+        { "text": "ผู้ใช้ในกลุ่มเดียวกัน ควรมีคุณลักษณะที่หลากหลายแตกต่างกัน", "correct": true },
+        { "text": "สามารถมีได้มากกว่า 1 user profile", "correct": false },
+        { "text": "คือคุณลักษณะของผู้ใช้ในแต่ละกลุ่ม", "correct": false }
+      ]
+    },
+    {
+      "question": "ข้อใดไม่ถูกต้องเกี่ยวกับ Persona",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "เป็นวิธีการหนึ่งสำหรับใช้อธิบายลักษณะของผู้ใช้", "correct": false },
+        { "text": "เป็นบุคคลที่ถูกสร้างขึ้นมาจากข้อมูลจริงของกลุ่มผู้ใช้", "correct": false },
+        { "text": "คือลักษณะผู้ใช้ที่กำหนดมาจากคุณลักษณะของโปรแกรมที่ได้ออกแบบไว้", "correct": true },
+        { "text": "จำนวน persona ขึ้นกับโจทย์ อาจมีได้มากกว่า 1 persona", "correct": false },
+        { "text": "ไม่ใช่การอธิบายลักษณะของผู้ใช้คนใดคนหนึ่งเป็นการเฉพาะ", "correct": false }
+      ]
+    },
+    {
+      "question": "สำหรับ Persona \"Nina\" ข้อความ \"The bookworm\" บริเวณด้านบนของตัวเอกสาร ข้อความดังกล่าวจัดว่าเป็นองค์ประกอบใดของ Persona",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "เป้าหมาย หรือความจำเป็น", "correct": false },
+        { "text": "Key Characteristics", "correct": false },
+        { "text": "Persona group name", "correct": true },
+        { "text": "Persona name", "correct": false },
+        { "text": "Quote ที่บ่งบอกปัญหาหรือแรงจูงใจของผู้ใช้", "correct": false }
+      ]
+    },
+    {
+      "question": "ข้อใดบ้างไม่ถูกต้องเกี่ยวกับ Persona",
+      "img": null,
+      "multi": true,
+      "choices": [
+        { "text": "ช่วยสื่อสารให้เข้าใจปัญหาของผู้ใช้", "correct": false },
+        { "text": "เป็นข้อมูลผู้ใช้ในรูปแบบที่ง่ายต่อการจดจำ", "correct": false },
+        { "text": "เป็นตัวบุคคลที่แทนผู้ใช้ที่เหมาะสมตามความคิดเห็นของนักออกแบบ", "correct": true },
+        { "text": "เป็นข้อมูลของหนึ่งในผู้ใช้กลุ่มเป้าหมาย ที่ถูกเลือกให้เป็นตัวแทนของผู้ใช้ทั้งหมด", "correct": true },
+        { "text": "อาจมีการใช้ภาพประกอบเพื่อช่วยในการสื่อสารและจดจำ", "correct": false }
+      ]
+    },
+    {
+      "question": "Task Analysis เกี่ยวข้องกับข้อใดมากที่สุด",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "Context of Use", "correct": true },
+        { "text": "Evaluation", "correct": false },
+        { "text": "Design", "correct": false },
+        { "text": "Prototyping", "correct": false },
+        { "text": "User Characteristics", "correct": false }
+      ]
+    },
+    {
+      "question": "เครื่องชงกาแฟที่มีขั้นตอนการใช้งานดังภาพต่อไปนี้ เมื่อทำการวิเคราะห์งาน (Task Analysis) แล้วพบว่าใช้เวลาค่อนข้างมากในหลายขั้นตอน ผลจากการวิเคราะห์ดังกล่าว ควรนำไปกำหนดคุณสมบัติที่ต้องปรับปรุงในข้อใดมากที่สุด",
+      "img": "assets/img/Picture3.jpeg",
+      "multi": false,
+      "choices": [
+        { "text": "Ease of Use", "correct": false },
+        { "text": "Effectiveness", "correct": false },
+        { "text": "Cost", "correct": false },
+        { "text": "Taste", "correct": false },
+        { "text": "Efficiency", "correct": true }
+      ]
+    },
+    {
+      "question": "จากคำอธิบายงานต่อไปนี้: ขั้นตอน จะต้องเริ่มจากการทำความสะอาดตัวกรอง บรรจุเมล็ดกาแฟสด เปิดเครื่องชงกาแฟ ใส่กาแฟที่ชงลงในถ้วย จากข้อความข้างต้น ข้อใดเป็น Goal",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "ใส่กาแฟที่ชงลงในถ้วย", "correct": false },
+        { "text": "บรรจุเมล็ดกาแฟสด", "correct": false },
+        { "text": "เปิดเครื่องชงกาแฟ", "correct": false },
+        { "text": "ทำความสะอาดตัวกรอง", "correct": false },
+        { "text": "ได้กาแฟสดชงเอง", "correct": true }
+      ]
+    },
+    {
+      "question": "จากคำอธิบายงานต่อไปนี้ ในการจัดกิจกรรมทัศนศึกษา จำเป็นต้องจัดทำข้าวกล่อง (ข้าวไข่เจียว) ให้บริการผู้ร่วมกิจกรรมจำนวนหนึ่ง มีการแบ่งหน้าที่กันไปทำ คือ คนหุงข้าว คนทอดไข่เจียว และ คนบรรจุกล่อง ในเฉพาะคนบรรจุกล่อง มีขั้นตอน คือ ตักข้าวใส่กล่อง ตักไข่เจียววางบนข้าว ใส่ช้อนพลาสติกลงในกล่อง ปิดฝากล่อง จากข้อมูลข้างต้น ข้อใดเป็น Action ตามความหมายของ Goal Task Action",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "ทอดไข่เจียว", "correct": false },
+        { "text": "บรรจุกล่อง", "correct": false },
+        { "text": "ตักข้าวใส่กล่อง", "correct": true },
+        { "text": "ทำข้าวกล่อง", "correct": false },
+        { "text": "หุงข้าว", "correct": false }
+      ]
+    },
+    {
+      "question": "ข้อใดบ้างเป็นส่วนหนึ่งของการอธิบายงานด้วย HTA (Hierarchical Task Analysis)",
+      "img": null,
+      "multi": true,
+      "choices": [
+        { "text": "Subtask", "correct": true },
+        { "text": "Action", "correct": true },
+        { "text": "Goal", "correct": true },
+        { "text": "Task", "correct": true },
+        { "text": "Plan", "correct": true }
+      ]
+    },
+    {
+      "question": "ในการอธิบายงาน (Task Description) ข้อใดต่อไปนี้อธิบายความหมายหรือวัตถุประสงค์ของ \"Plan\" ได้ดีที่สุด",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "ใช้กำหนดความสัมพันธ์ระหว่าง Goal, Task, Action", "correct": false },
+        { "text": "ใช้กำหนดระยะเวลาในการทำงาน", "correct": false },
+        { "text": "ใช้กำหนดโครงสร้างหรือองค์ประกอบของงาน", "correct": false },
+        { "text": "ใช้อธิบายเงื่อนไขในการทำงานนั้น ๆ", "correct": true },
+        { "text": "ใช้วางแผนการทำงาน", "correct": false }
+      ]
+    },
+    {
+      "question": "จากคำอธิบายงานต่อไปนี้ หากการหุงข้าว และ ทอดไข่เจียว สามารถทำไปพร้อม ๆ กันได้ ควรอธิบายเงื่อนไขการทำงานโดยใช้ Plan ประเภทใด",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "Fixed sequence", "correct": false },
+        { "text": "Waiting for events", "correct": false },
+        { "text": "Optional tasks", "correct": false },
+        { "text": "Cycles", "correct": false },
+        { "text": "Time sharing", "correct": true }
+      ]
+    },
+    {
+      "question": "ถ้าในการชงกาแฟสด ต้องมีการทำซ้ำขั้นตอนบางขั้นตอนหลายครั้ง เพื่อให้สามารถเสิร์ฟกาแฟได้ครบจำนวนคน หากใช้การอธิบายงานด้วย HTA Diagram ควรจะใช้ Plan ประเภทใดในการอธิบาย",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "Discretionary", "correct": false },
+        { "text": "Optional tasks", "correct": false },
+        { "text": "Time sharing", "correct": false },
+        { "text": "Waiting for events", "correct": false },
+        { "text": "Cycles", "correct": true }
+      ]
+    },
+    {
+      "question": "ในการถอนเงินด้วยตู้ ATM ขั้นตอนจะแตกต่างกัน ระหว่างการถอนด้วยบัตร ATM กับถอนโดยไม่ใช้บัตร ATM ข้อมูลนี้หากใช้ในการวิเคราะห์ Task Characteristics ของ Task ถอนเงิน จะเกี่ยวข้องกับเรื่องใดมากที่สุด",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "Knowledge and skill required", "correct": false },
+        { "text": "Time critical", "correct": false },
+        { "text": "Variety of task for different occasions", "correct": true },
+        { "text": "Environmental factors", "correct": false },
+        { "text": "Frequency of task", "correct": false }
+      ]
+    },
+    {
+      "question": "ข้อใดต่อไปนี้ ไม่ได้เป็นส่วนหนึ่งของ Experience Map",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "Action", "correct": false },
+        { "text": "Stage", "correct": false },
+        { "text": "Plan", "correct": true },
+        { "text": "Direct Quote", "correct": false },
+        { "text": "Task", "correct": false }
+      ]
+    },
+    {
+      "question": "ข้อใดไม่เข้าพวก",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "Use Cases", "correct": false },
+        { "text": "Task Characteristics", "correct": false },
+        { "text": "Persona", "correct": true },
+        { "text": "Task Decomposition", "correct": false },
+        { "text": "Scenario", "correct": false }
+      ]
+    },
+    {
+      "question": "ในการจัดทำ Experience Map, Tasks จะต้องถูกจัดเรียงตามลำดับก่อนหลังตามแนว column ของตาราง จาก ____ ไป ____",
+      "img": null,
+      "multi": false,
+      "choices": [
+        { "text": "ซ้าย ไปขวา", "correct": true },
+        { "text": "ขวา ไปซ้าย", "correct": false },
+        { "text": "บน ลงล่าง", "correct": false },
+        { "text": "ล่าง ขึ้นบน", "correct": false }
+      ]
+    }
+  ]
+}

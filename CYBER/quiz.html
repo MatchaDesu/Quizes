@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/quiz.css">
+</head>
+
+<body>
+    <div class="quiz-container">
+        <h1 id="quiz-title"></h1>
+        <h2 id="quiz-question"></h2>
+        <img id="quiz-img"></img>
+        <div id="quiz-form">
+            <div id="quiz-list"></div>
+            <div id="button-box">
+                <button type="button" id="prev-button" onclick="prevQuestion()">ข้อก่อนหน้า</button>
+                <button type="button" id="ans-button" onclick="showAns()" class="highlight-button">เฉลย</button>
+                <button type="button" id="next-button" onclick="nextQuestion()">ข้อถัดไป</button>
+            </div>
+        </div>
+
+        <div id="number-selection-box"></div>
+    </div>
+
+    <script src="controllers/quizController.js"></script>
+
+</body>
+
+</html>
